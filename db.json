@@ -9,7 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-    {"id": 1, "name": "asad", "username": "kamran", "email": "usama@gmail.com"}
+    {"id": 1, "name": "asad", "username": "kamran", "email": "usama@gmail.com"},
+    {"id": 2, "name": "usama", "username": "khan", "email": "khan@gmail.com"}
   ],
   "profile": {
     "name": "typicode"
