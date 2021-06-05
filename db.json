@@ -9,16 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-    {"id": 1, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 2, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 3, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 4, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 5, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 6, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 7, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 8, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 9, "name": "usama", "username": "kamran", "email": "usama@gmail.com"},
-    {"id": 10, "name": "usama", "username": "kamran", "email": "usama@gmail.com"}
+    {"id": 1, "name": "asad", "username": "kamran", "email": "usama@gmail.com"}
   ],
   "profile": {
     "name": "typicode"
